@@ -1,0 +1,16 @@
+bitstring==3.1.5
+colour==0.1.4
+funcsigs==1.0.2
+jsonpickle==0.9.5
+lifxlan==1.1.5
+meld3==1.0.2
+mock==2.0.0
+msgpack-python==0.4.8
+numpy==1.13.3
+pbr==3.1.1
+pyserial==3.4
+pyusb==1.0.2
+readline==6.2.4.1
+Rx==1.6.0
+six==1.11.0
+supervisor==3.3.3

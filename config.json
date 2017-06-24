@@ -1,0 +1,12 @@
+{
+    "device": {
+        "path": "/dev/ttyUSB0", 
+        "type": "power", 
+        "number": 0
+    }, 
+    "bulb": {
+        "ip": "192.168.254.50", 
+        "mac": "d0:73:d5:21:5c:6d"
+    }, 
+    "color_map": "colors/ftp.json"
+}

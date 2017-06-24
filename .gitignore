@@ -62,3 +62,12 @@ data/
 *.log
 sandbox/
 .ipynb_checkpoints/
+
+colors/cl_ftp.json
+colors/mg_ftp.json
+
+# Supervisor
+supervisord.log
+
+# Virtualenv
+venv/
