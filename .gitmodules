@@ -1,0 +1,3 @@
+[submodule "ext/python-ant"]
+	path = ext/python-ant
+	url = https://github.com/SamyCookie/python-ant
