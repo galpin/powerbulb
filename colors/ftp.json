@@ -1,43 +1,137 @@
 {
-    "py/object": "powerbulb.colors.ContinuousColorMap", 
-    "hue": [
-        0.08, 
-        0.66, 
-        0.32, 
-        0.17, 
-        0.11, 
-        0.0
-    ], 
-    "saturation": [
-        0.0, 
-        1.0, 
-        1.0, 
-        1.0, 
-        1.0, 
-        1.0
-    ], 
-    "brightness": [
-        1.0, 
-        1.0, 
-        1.0, 
-        1.0, 
-        1.0, 
-        1.0
-    ], 
-    "kelvin": [
-        0.14, 
-        0.14, 
-        0.14, 
-        0.14, 
-        0.14, 
-        0.06
-    ], 
-    "values": [
-        0.0, 
-        140.0, 
-        190.0, 
-        225.0, 
-        265.0, 
-        302.5
+    "py/object": "powerbulb.colors.DiscreteColorMap",
+    "color_stops": [
+        {
+            "py/tuple": [
+                0.0,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.08,
+                            0.0,
+                            1.0,
+                            0.14
+                        ]
+                    },
+                    "py/seq": [
+                        0.08,
+                        0.0,
+                        1.0,
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "py/tuple": [
+                126.00000000000001,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.66,
+                            1.0,
+                            1.0,
+                            0.14
+                        ]
+                    },
+                    "py/seq": [
+                        0.66,
+                        1.0,
+                        1.0,
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "py/tuple": [
+                171.0,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.32,
+                            1.0,
+                            1.0,
+                            0.14
+                        ]
+                    },
+                    "py/seq": [
+                        0.32,
+                        1.0,
+                        1.0,
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "py/tuple": [
+                202.5,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.17,
+                            1.0,
+                            1.0,
+                            0.14
+                        ]
+                    },
+                    "py/seq": [
+                        0.17,
+                        1.0,
+                        1.0,
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "py/tuple": [
+                238.5,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.11,
+                            1.0,
+                            1.0,
+                            0.14
+                        ]
+                    },
+                    "py/seq": [
+                        0.11,
+                        1.0,
+                        1.0,
+                        0.14
+                    ]
+                }
+            ]
+        },
+        {
+            "py/tuple": [
+                272.25,
+                {
+                    "py/object": "powerbulb.colors.Color",
+                    "py/newargs": {
+                        "py/tuple": [
+                            0.0,
+                            1.0,
+                            1.0,
+                            0.06
+                        ]
+                    },
+                    "py/seq": [
+                        0.0,
+                        1.0,
+                        1.0,
+                        0.06
+                    ]
+                }
+            ]
+        }
     ]
 }

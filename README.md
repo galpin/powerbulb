@@ -53,7 +53,7 @@ on a Functional Threshold Power (FTP) of 225W.
 
 You can generate a new color map based on your own FTP using the following command:
 
-    $ python create_ftp_color_map.py --ftp 320 --output colors/ftp.json
+    $ python create_ftp_color_map.py --ftp 320 --output colors/ftp.json --kind discrete
     
 The colors match Zwift: Z1 (gray), Z2 (blue), Z3 (green), Z4 (yellow), Z5 (orange), Z6 (red).
     
