@@ -1,17 +1,16 @@
 ## Introduction
 
 **PowerBulb** links a Smart Trainer (e.g. [Tacx Vortex](https://tacx.com/product/vortex-smart/)) or Heart Rate Monitor to a Smart Lightbulb
-(e.g. [LIFX](https://eu.lifx.com/products/lifx)) using ANT+.
+(e.g. [LIFX](https://eu.lifx.com/products/lifx)) using ANT and a Raspberry Pi.
 
-A typical installation utilizes a Raspberry Pi. The installation instructions in this document assume the use of a
-Raspberry Pi and Raspbian Squeeze.
+### Video
 
 [![](http://img.youtube.com/vi/BCdriQX_YVw/0.jpg)](http://www.youtube.com/watch?v=BCdriQX_YVw "YouTube Video")
 
 ## Hardware Requirements
 
 1. Smart Trainer, Power Meter or HR monitor
-2. Raspberry Pi
+2. Raspberry Pi + Squeeze 
 3. ANT+ USB Dongle (e.g. Dynastream ANTUSB-m)
 4. LIFX Smart Bulb
 
