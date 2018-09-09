@@ -100,7 +100,7 @@ The configuration can be customized as follows:
 
 | Path        | Description                                                 |
 | ------------|:------------------------------------------------------------|
-| `color_map` | The path to the JSON file containing to value -> color map. |
+| `color_map` | The path to the JSON file containing to value -> color map  |
 
 ### Using supervisord
 
