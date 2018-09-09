@@ -1,7 +1,6 @@
 ## Introduction
 
-**PowerBulb** links a Smart Trainer (e.g. [Tacx Vortex](https://tacx.com/product/vortex-smart/)) or Heart Rate Monitor to a Smart Lightbulb
-(e.g. [LIFX](https://eu.lifx.com/products/lifx)) using ANT and a Raspberry Pi.
+**PowerBulb** connects a Smart Trainer to a Smart Lightbulb (e.g. [LIFX](https://eu.lifx.com/products/lifx)) using ANT and a Raspberry Pi.
 
 ### Video
 
