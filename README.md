@@ -111,9 +111,18 @@ will continually run the application and restart it if no device is found.
     $ supervisorctl status
     app                              RUNNING   pid 3773, uptime 0:00:25
 
-
-
 ## Other Utilities
 
 * `sweep_color_map.py -c config.json -min 50 -max 500` (test the color map and sweep a W range)
 * `find_lifx_devices.py` (dumps LIFX color lights on the LAN)
+
+## Development Environment
+
+A [conda](https://conda.io/miniconda.html) environment file is provided that can be used to create a development environment.
+
+    $ conda env create -n powerbulb -f environment.yaml
+    $ pushd ext/python-ant
+    $ python setup.py install
+    $ popd
+    ...
+    $ python app.py -c config.json
